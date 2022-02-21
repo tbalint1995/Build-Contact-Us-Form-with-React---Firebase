@@ -1,3 +1,9 @@
+![1 Send us a message](https://user-images.githubusercontent.com/93486996/155018471-e5784a89-7d79-495e-b8ad-bd77a0a395af.jpg)
+
+![2  A feltöltés sikeres volt](https://user-images.githubusercontent.com/93486996/155018483-7b35d133-3bd0-44c1-923e-8a6e47958083.jpg)
+
+![3 Firebase-Database](https://user-images.githubusercontent.com/93486996/155018495-5cf7be7d-95f7-4579-90e3-8169695470f7.jpg)
+
 *********************
 Fontos! 
 ( "react-native-firebase": "^5.6.0", 
